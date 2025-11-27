@@ -7,7 +7,13 @@ const app = express();
 const PORT = process.env.PORT || 5000;
 
 // ========== MIDDLEWARE ==========
-app.use(cors());
+app.use(cors({
+  origin: [
+    'http://localhost:3000',
+    /\.vercel\.app$/ // Permite todos los subdominios de Vercel
+  ],
+  credentials: true
+}));
 app.use(express.json());
 
 // ========== CONFIGURACIÓN DE API ==========
