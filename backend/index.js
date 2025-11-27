@@ -10,6 +10,7 @@ const PORT = process.env.PORT || 5000;
 app.use(cors({
   origin: [
     'http://localhost:3000',
+    'https://cloudsy-weather.vercel.app/',
     /\.vercel\.app$/ // Permite todos los subdominios de Vercel
   ],
   credentials: true
