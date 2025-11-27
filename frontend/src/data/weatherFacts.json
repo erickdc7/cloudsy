@@ -1,0 +1,374 @@
+{
+  "America": [
+    {
+      "id": 1,
+      "fact": "La Amazonía produce el 20% del oxígeno del planeta"
+    },
+    {
+      "id": 2,
+      "fact": "El Desierto de Atacama en Chile es el lugar más seco del planeta"
+    },
+    {
+      "id": 3,
+      "fact": "El Valle de la Muerte en California alcanzó 56.7°C, la temperatura más alta registrada"
+    },
+    {
+      "id": 4,
+      "fact": "La Patagonia tiene vientos constantes de hasta 120 km/h"
+    },
+    {
+      "id": 5,
+      "fact": "El huracán más costoso de la historia fue Katrina en 2005 con $125 mil millones en daños"
+    },
+    {
+      "id": 31,
+      "fact": "El río Amazonas transporta más agua que los siguientes siete ríos más grandes juntos"
+    },
+    {
+      "id": 32,
+      "fact": "Canadá tiene el 20% del agua dulce del mundo"
+    },
+    {
+      "id": 33,
+      "fact": "Alaska posee más de 100 volcanes activos y durmientes"
+    },
+    {
+      "id": 34,
+      "fact": "En Florida caen más rayos que en cualquier otro estado de Estados Unidos"
+    },
+    {
+      "id": 35,
+      "fact": "La Cordillera de los Andes es la montaña más larga del mundo con 7,000 km"
+    },
+    {
+      "id": 36,
+      "fact": "México tiene más de 60 volcanes activos o potencialmente activos"
+    },
+    {
+      "id": 37,
+      "fact": "En Brasil nieva ocasionalmente a pesar de su clima tropical"
+    },
+    {
+      "id": 38,
+      "fact": "El glaciar Perito Moreno es uno de los pocos glaciares del mundo que aún crece"
+    },
+    {
+      "id": 39,
+      "fact": "El río Paraná puede llegar a medir más de 14 km de ancho en temporada húmeda"
+    },
+    {
+      "id": 40,
+      "fact": "El Caribe experimenta más del 70% de los huracanes del Atlántico"
+    }
+  ],
+  "Europe": [
+    {
+      "id": 6,
+      "fact": "Islandia tiene el clima más impredecible: puede tener 4 estaciones en un día"
+    },
+    {
+      "id": 7,
+      "fact": "La ciudad más fría de Europa es Oymyakon, Rusia, con -71.2°C"
+    },
+    {
+      "id": 8,
+      "fact": "Noruega puede tener días de 24 horas de sol en verano"
+    },
+    {
+      "id": 9,
+      "fact": "Los Alpes reciben hasta 12 metros de nieve al año"
+    },
+    {
+      "id": 10,
+      "fact": "Londres tiene lluvia ligera 106 días al año en promedio"
+    },
+    {
+      "id": 41,
+      "fact": "Finlandia es conocido como 'la tierra de los mil lagos', aunque tiene más de 180,000"
+    },
+    {
+      "id": 42,
+      "fact": "Grecia puede experimentar más de 300 días de sol al año"
+    },
+    {
+      "id": 43,
+      "fact": "En Venecia ocurren hasta 60 inundaciones al año por mareas altas"
+    },
+    {
+      "id": 44,
+      "fact": "España tiene el único desierto oficial de Europa: el Desierto de Tabernas"
+    },
+    {
+      "id": 45,
+      "fact": "En Escocia el viento puede superar los 200 km/h en tormentas fuertes"
+    },
+    {
+      "id": 46,
+      "fact": "Suecia puede experimentar temperaturas de -50°C en su región norte"
+    },
+    {
+      "id": 47,
+      "fact": "El Danubio pasa por 10 países, más que cualquier otro río europeo"
+    },
+    {
+      "id": 48,
+      "fact": "Las olas de calor europeas han aumentado en frecuencia desde 2010"
+    },
+    {
+      "id": 49,
+      "fact": "En Ámsterdam se registran más días nublados que soleados al año"
+    },
+    {
+      "id": 50,
+      "fact": "El Volcán Etna en Italia es uno de los más activos del mundo"
+    }
+  ],
+  "Asia": [
+    {
+      "id": 11,
+      "fact": "Mawsynram, India, recibe 11,871 mm de lluvia al año"
+    },
+    {
+      "id": 12,
+      "fact": "El monzón asiático alimenta a más de 2 mil millones de personas con sus lluvias"
+    },
+    {
+      "id": 13,
+      "fact": "Yakutsk tiene temperaturas desde -64°C hasta +38°C"
+    },
+    {
+      "id": 14,
+      "fact": "El tifón Haiyan alcanzó vientos de 315 km/h"
+    },
+    {
+      "id": 15,
+      "fact": "El Himalaya crea su propio microclima"
+    },
+    {
+      "id": 51,
+      "fact": "El Mar Muerto tiene la tasa de evaporación más alta del mundo"
+    },
+    {
+      "id": 52,
+      "fact": "En Japón ocurren más de 1,500 terremotos perceptibles por año"
+    },
+    {
+      "id": 53,
+      "fact": "El desierto de Gobi puede experimentar nevadas debido a sus bajas temperaturas"
+    },
+    {
+      "id": 54,
+      "fact": "Bangladés experimenta algunas de las inundaciones más intensas cada año"
+    },
+    {
+      "id": 55,
+      "fact": "China tiene los desiertos que más rápido crecen por desertificación"
+    },
+    {
+      "id": 56,
+      "fact": "El lago Baikal contiene el 22% del agua dulce no congelada del planeta"
+    },
+    {
+      "id": 57,
+      "fact": "Israel creó técnicas de desalinización que producen más agua de la que usan"
+    },
+    {
+      "id": 58,
+      "fact": "La India puede tener temperaturas superiores a 50°C en olas de calor"
+    },
+    {
+      "id": 59,
+      "fact": "El monzón del sudeste asiático puede durar más de 4 meses"
+    },
+    {
+      "id": 60,
+      "fact": "Las tormentas de polvo del desierto de Arabia pueden cubrir ciudades enteras"
+    }
+  ],
+  "Africa": [
+    {
+      "id": 16,
+      "fact": "El Sahara es el desierto cálido más grande del mundo"
+    },
+    {
+      "id": 17,
+      "fact": "La temperatura más alta registrada en África fue 55°C en Túnez"
+    },
+    {
+      "id": 18,
+      "fact": "Las tormentas de arena del Sahara pueden viajar hasta el Caribe"
+    },
+    {
+      "id": 19,
+      "fact": "El Monte Kilimanjaro tiene nieve pese a estar en el ecuador"
+    },
+    {
+      "id": 20,
+      "fact": "Madagascar tiene microclimas únicos"
+    },
+    {
+      "id": 61,
+      "fact": "El Sahara se expande entre 1% y 2% cada año"
+    },
+    {
+      "id": 62,
+      "fact": "El Congo tiene una de las lluvias más intensas del mundo"
+    },
+    {
+      "id": 63,
+      "fact": "En Namibia existe el desierto más viejo del planeta: el Namib"
+    },
+    {
+      "id": 64,
+      "fact": "Etiopía tiene zonas donde llueve más de 2,000 mm al año"
+    },
+    {
+      "id": 65,
+      "fact": "Sudáfrica puede tener granizo del tamaño de pelotas de tenis"
+    },
+    {
+      "id": 66,
+      "fact": "El lago Victoria es el lago tropical más grande del mundo"
+    },
+    {
+      "id": 67,
+      "fact": "En el Sahel pueden ocurrir temperaturas superiores a 48°C por días seguidos"
+    },
+    {
+      "id": 68,
+      "fact": "Mauricio está entre los países más vulnerables al aumento del nivel del mar"
+    },
+    {
+      "id": 69,
+      "fact": "El río Nilo es uno de los más sensibles a cambios climáticos"
+    },
+    {
+      "id": 70,
+      "fact": "En Argelia se han registrado nevadas en el Sahara"
+    }
+  ],
+  "Oceania": [
+    {
+      "id": 21,
+      "fact": "Australia tuvo una ola de calor de 160 días sobre 35°C"
+    },
+    {
+      "id": 22,
+      "fact": "Nueva Zelanda puede tener sol y nieve el mismo día"
+    },
+    {
+      "id": 23,
+      "fact": "El ciclón Patricia alcanzó 346 km/h"
+    },
+    {
+      "id": 24,
+      "fact": "La Gran Barrera de Coral es muy vulnerable al calentamiento del océano"
+    },
+    {
+      "id": 25,
+      "fact": "Tasmania tiene uno de los aires más puros del mundo"
+    },
+    {
+      "id": 71,
+      "fact": "Australia tiene más de 10,000 playas, más que cualquier país"
+    },
+    {
+      "id": 72,
+      "fact": "El interior australiano puede superar los 48°C por semanas"
+    },
+    {
+      "id": 73,
+      "fact": "Nueva Zelanda está sobre dos placas tectónicas activas"
+    },
+    {
+      "id": 74,
+      "fact": "Papúa Nueva Guinea tiene algunos de los climas más húmedos del planeta"
+    },
+    {
+      "id": 75,
+      "fact": "Australia sufre tormentas eléctricas con más de 1 millón de rayos al año"
+    },
+    {
+      "id": 76,
+      "fact": "En Fiji los ciclones pueden alcanzar categoría 5 regularmente"
+    },
+    {
+      "id": 77,
+      "fact": "La sequía en Australia puede durar más de una década"
+    },
+    {
+      "id": 78,
+      "fact": "Nueva Zelanda puede registrar más de 100 terremotos perceptibles al año"
+    },
+    {
+      "id": 79,
+      "fact": "El Mar del Coral es uno de los mares con mayor biodiversidad marina"
+    },
+    {
+      "id": 80,
+      "fact": "Algunas regiones australianas pueden pasar años sin lluvia significativa"
+    }
+  ],
+  "World": [
+    {
+      "id": 26,
+      "fact": "Un rayo puede calentar el aire a 30,000°C"
+    },
+    {
+      "id": 27,
+      "fact": "Las nubes pueden pesar más de 500,000 kg"
+    },
+    {
+      "id": 28,
+      "fact": "La Antártida contiene el 90% del hielo del mundo"
+    },
+    {
+      "id": 29,
+      "fact": "Los copos de nieve pueden tardar hasta una hora en caer"
+    },
+    {
+      "id": 30,
+      "fact": "La temperatura global aumenta 0.2°C por década"
+    },
+    {
+      "id": 81,
+      "fact": "El 70% del planeta está cubierto por agua"
+    },
+    {
+      "id": 82,
+      "fact": "Los ciclones cambian de nombre según la región del mundo"
+    },
+    {
+      "id": 83,
+      "fact": "El huracán más grande registrado tuvo un diámetro de más de 2,200 km"
+    },
+    {
+      "id": 84,
+      "fact": "La Antártida es técnicamente un desierto"
+    },
+    {
+      "id": 85,
+      "fact": "La Tierra recibe 100 veces más energía del sol que la que podemos usar"
+    },
+    {
+      "id": 86,
+      "fact": "Los tornados pueden alcanzar 500 km/h en casos extremos"
+    },
+    {
+      "id": 87,
+      "fact": "El nivel del mar ha aumentado 20 cm desde 1900"
+    },
+    {
+      "id": 88,
+      "fact": "Se forman alrededor de 16 millones de tormentas al año"
+    },
+    {
+      "id": 89,
+      "fact": "Cada segundo caen más de 100 rayos en la Tierra"
+    },
+    {
+      "id": 90,
+      "fact": "El clima del planeta cambió más en los últimos 50 años que en los últimos 6,000"
+    }
+  ]
+}
